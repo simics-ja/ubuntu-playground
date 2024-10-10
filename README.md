@@ -1,6 +1,10 @@
 # Docker Playground
 ## Commands
 ```
+mkdir share
+```
+
+```
 docker-compose up -d
 ```
 
